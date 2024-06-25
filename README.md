@@ -6,7 +6,7 @@ Copyright <2024> reserved by Seyed Zeinab Aliahmadi
 *It is forbidden to share the content of this document either in whole or in parts without citing the following paper. The reader who wishes to print or save this document on any media must first get the permission of the author.
 
 Cite the following paper:
-Seyed Zeinab Aliahmadi, Armin Jabbarzadeh, Lucas A. Hof (2024), A Multi-objective Optimization Approach for Sustainable and Personalized Trip Planning:  A Self-adaptive Evolutionary Algorithm with Case Study, Expert Systems With Applications, First Revision
+Seyed Zeinab Aliahmadi, Armin Jabbarzadeh, Lucas A. Hof (2024), A Multi-objective Optimization Approach for Sustainable and Personalized Trip Planning:  A Self-adaptive Evolutionary Algorithm with Case Study, Expert Systems with Applications, The First Revision
 ============================================================================================================================================================
 Project description:
 In contemporary tourism, integrating sustainability with personalized travel planning signifies a pivotal transformation. 
